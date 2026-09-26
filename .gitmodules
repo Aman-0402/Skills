@@ -1,0 +1,6 @@
+[submodule "AI-E-Commerce-Media-Studio"]
+	path = AI-E-Commerce-Media-Studio
+	url = https://github.com/ronchen0927/AI-E-Commerce-Media-Studio
+[submodule "video-shotcraft"]
+	path = video-shotcraft
+	url = https://github.com/Vincentwei1021/video-shotcraft

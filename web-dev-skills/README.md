@@ -27,6 +27,7 @@ For website work specifically, feed `prompt.txt` to the agent (or have it read t
 - `playwright-cli.md` — token-efficient CLI for agents to drive Playwright (browser verification).
 - `lighthouse.md`, `context7.md` — Google page-audit tool; MCP server for current library docs (backend debugging).
 - `feedback-seo-aeo-geo.md`, `feedback-web-design-guidelines.md` — standing rules to apply on website/UI work.
+- `claude-red.md` — SnailSploit offensive-security skill library (78 SKILL.md files, authorized pentesting/CTF/research only). Not installed here; install is blocked by Claude Code's auto-mode safety classifier and must be run manually (`git clone https://github.com/SnailSploit/claude-red ~/.claude/skills/claude-red`).
 
 ## Add new skill
 ```
